@@ -5,5 +5,5 @@
  * @returns Sum of a and b
  */
 export function add(a: number,b:number,c:number): number {
-  return a + b;
+  return a + b + c;
 }
