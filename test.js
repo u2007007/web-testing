@@ -1,5 +1,5 @@
-let a = 10;
-let b = 10;
-let sum = a + b;
+function addition(a, b) {
+  return a + b;
+}
 
-console.log("The sum of a and b is: " + sum);
+console.log(addition(2, 3)); // Output: 5
