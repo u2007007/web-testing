@@ -1,8 +1,10 @@
+
 /**
- * Adds two numbers together.
+ * Adds three numbers together.
  * @param a - First number
  * @param b - Second number
- * @returns Sum of a and b
+ * @param c - Third number
+ * @returns Sum of a, b, and c
  */
 export function add(a: number,b:number,c:number): number {
   return a + b + c ;
